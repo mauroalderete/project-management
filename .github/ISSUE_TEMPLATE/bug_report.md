@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: bug
 assignees: ''
-projects: novafuria/6
+projects: mauroalderete/20
 
 ---
 

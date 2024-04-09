@@ -48,7 +48,7 @@
 **MINIMAL CONFIGURATION OF THIS TEMPLATE**
 
 - [x] **RENAME** the title and all mentions of `project-management` with the name of your project.
-- [ ] **CHANGE** the key `projects: novafuria/6` in ISSUE_TEMPLATE files to the correct project path.
+- [x] **CHANGE** the key `projects: novafuria/6` in ISSUE_TEMPLATE files to the correct project path.
 - [ ] **REVIEW** if is needed update:
   - [ ] `CODE_OF_CONDUCT.md`
   - [ ] `CONTRIBUTING.md`
