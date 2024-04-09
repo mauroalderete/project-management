@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# base-template <!-- omit from toc -->
+# project-management <!-- omit from toc -->
 
 <h4>A template with the minimal features to start any repository in Novafuria</h4>
 
@@ -47,7 +47,7 @@
 
 **MINIMAL CONFIGURATION OF THIS TEMPLATE**
 
-- [ ] **RENAME** the title and all mentions of `base-template` with the name of your project.
+- [x] **RENAME** the title and all mentions of `project-management` with the name of your project.
 - [ ] **CHANGE** the key `projects: novafuria/6` in ISSUE_TEMPLATE files to the correct project path.
 - [ ] **REVIEW** if is needed update:
   - [ ] `CODE_OF_CONDUCT.md`
