@@ -10,6 +10,9 @@ on:
     types: 
       - opened
 
+permissions:
+  repository-projects: write
+
 env:
   LABEL_BUG: bug
   LABEL_ENHANCEMENT: enhancement

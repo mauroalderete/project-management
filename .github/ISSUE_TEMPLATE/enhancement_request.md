@@ -4,7 +4,7 @@ about: Propose an idea for improve the project
 title: 'As [role], I want to [action], so that [benefit]'
 labels: enhancement
 assignees: ''
-projects: novafuria/6
+projects: mauroalderete/20
 
 ---
 
